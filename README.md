@@ -1,1 +1,1 @@
-# favorite-recepies
+# favorite-recipes
